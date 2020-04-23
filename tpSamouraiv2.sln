@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpSamouraiv2", "tpSamouraiv2\tpSamouraiv2.csproj", "{AB8624AD-1147-4C2B-A581-6512DE92915D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "..\..\..\Downloads\Cours 250 - Module 6\Cours 250 - Module 6\Module 06 - Énoncé TP 01 - Le Dojo – partie 1\Ressources Module 06 - Enoncé TP 01\BO.csproj", "{0BBA0441-0AB7-4112-946B-521C9CEC7367}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "tpSamouraiv2\BO\BO.csproj", "{0BBA0441-0AB7-4112-946B-521C9CEC7367}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

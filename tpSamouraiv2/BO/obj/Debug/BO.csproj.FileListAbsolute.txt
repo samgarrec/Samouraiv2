@@ -1,0 +1,11 @@
+C:\Users\sgarrec\Downloads\Cours 250 - Module 6\Cours 250 - Module 6\Module 06 - Énoncé TP 01 - Le Dojo – partie 1\Ressources Module 06 - Enoncé TP 01\bin\Debug\BO.dll
+C:\Users\sgarrec\Downloads\Cours 250 - Module 6\Cours 250 - Module 6\Module 06 - Énoncé TP 01 - Le Dojo – partie 1\Ressources Module 06 - Enoncé TP 01\bin\Debug\BO.pdb
+C:\Users\sgarrec\Downloads\Cours 250 - Module 6\Cours 250 - Module 6\Module 06 - Énoncé TP 01 - Le Dojo – partie 1\Ressources Module 06 - Enoncé TP 01\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\sgarrec\Downloads\Cours 250 - Module 6\Cours 250 - Module 6\Module 06 - Énoncé TP 01 - Le Dojo – partie 1\Ressources Module 06 - Enoncé TP 01\obj\Debug\BO.dll
+C:\Users\sgarrec\Downloads\Cours 250 - Module 6\Cours 250 - Module 6\Module 06 - Énoncé TP 01 - Le Dojo – partie 1\Ressources Module 06 - Enoncé TP 01\obj\Debug\BO.pdb
+C:\Users\sgarrec\source\repos\tpSamouraiv2\tpSamouraiv2\BO\bin\Debug\BO.dll
+C:\Users\sgarrec\source\repos\tpSamouraiv2\tpSamouraiv2\BO\bin\Debug\BO.pdb
+C:\Users\sgarrec\source\repos\tpSamouraiv2\tpSamouraiv2\BO\obj\Debug\BO.csprojAssemblyReference.cache
+C:\Users\sgarrec\source\repos\tpSamouraiv2\tpSamouraiv2\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\sgarrec\source\repos\tpSamouraiv2\tpSamouraiv2\BO\obj\Debug\BO.dll
+C:\Users\sgarrec\source\repos\tpSamouraiv2\tpSamouraiv2\BO\obj\Debug\BO.pdb
